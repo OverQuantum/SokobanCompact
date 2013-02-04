@@ -1,0 +1,726 @@
+Name: Kurtan
+Author: Revaz S. Mesarkishvili
+Copyright: 1990
+Comment:
+Converted from KURTAN to Sokoban by OverQuantum, 2003.
+Updated for SokobanCompact by OverQuantum, 2008.
+Comment-End:
+
+;-----------------------
+
+########### #####
+#..     # ###   #
+#.. $ $ $  # .$.#
+### ######   $ $#
+  # #    ### .$.#
+ ## #########$ ##
+ #             #
+ # @ ###########
+ #   #
+ #####
+Title: Room #1, C1
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+      ####
+####  #  ##
+#  ####.  ######
+#   $ #.  # . .#
+# $$$ ## #     #
+# $          # #
+#   $ ##  #....#
+## $  ##########
+ ###$ #
+   # ##
+   #@#
+   ###
+Title: Room #2, C2
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+    ####
+#####@ #
+# $    #
+#  $ $ ###
+# $ $ $  #  #####
+###      #  #   #
+  #$# ####### $ #
+  #   ........$.#
+  ##  ###########
+   ####
+Title: Room #3, D2
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+          #####
+          #   ###
+ ######   # $ $ ##
+##..  ### #  $   #
+#...    #### $ $ #
+#.  # $  ##### ###
+## .#$ $  #  # #
+ #### $ $ #### #
+    #$ $   @   #
+    #     #### #
+    #######  # ###
+          #### ..#
+          #    ..#
+          #    .##
+          #######
+Title: Room #4, C3
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Horizontal corridor is truncated.
+Comment-End:
+
+   #######
+   #  ...#
+   #  ####
+   ##  #######
+   #    .....#
+#### $ ###   #
+#  ###   #####
+# $$     #
+#    ## ##
+##@  ## ##
+ ####  $ ##
+    #   $ #
+    # $$  #
+    ##  $ #
+     #   ##
+     #####
+Title: Room #5, D3
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+      ####
+#######  #
+# $   $  #
+#   #$#  #
+##  ...$ #
+ #$# ..# #
+ #  ...#$##
+ # ## #   ##
+ # $   $  @#
+ #  ########
+ ####
+Title: Room #6, B1
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+   ####
+   #  #
+ ### $#
+###   #
+#  $ $######
+#   $ # ...#
+## $$  ....#
+ #$   #....#
+ # $ $#....#
+ #$   ## ####
+ #  $ # $ $@#
+ ### ##  $ ##
+   #$     ##
+   #  #####
+   ####
+Title: Room #7, A1
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+   #######
+  ##     ###
+  # $  $   #
+  #   $ $  #
+  ## #######
+  #  $ $   #
+###    $   #
+#  $ ## ####
+#  $ #....#
+# #  #....#
+# ##$#....#
+# $  #   ##
+# $ $#.  #
+## @ #####
+ #####
+Title: Room #8, A2
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+###########
+#......   #########
+#......   #  ##   #
+#..### $    $     #
+#... $ $ #  ###   #
+#...#$#####    #  #
+###    #   #$  # $###
+  #  $$ $ $  $##  $ #
+  #  $   #$#  ##    #
+  ### ## #  $ ## ####
+   #  $ $ ## ##  #
+   #    $  $  # ##
+   ##   # #   # #
+   ## ### ##### #
+    #  @  #   ###
+    #######
+Title: Room #9, A3
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+  ##############
+  #..... ......#
+  #..... . ....#
+ ######     ####
+ #     ## ###  #####
+ # $$ $ #   $$   $.#
+ # $  #   ###  #####
+ # $  ### # # $  ###
+ ##$##   $  #      #
+  # ### #   ###$$ ##
+### $  ## ## $    #
+#   $ $     $  $ ##
+# $   ## ## ##  ##
+#   ####  $ $ $ #
+#####  ####@#   #
+          #######
+Title: Room #10, A4
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Beware: one box is redundant.
+Comment-End:
+
+     #####
+######   ###
+#    #  $$ #
+# $$$# $   # ####
+#  $ #$ $ $###  #
+#   $   #       #
+# $###  # ##### #  ####
+##   $  $ ##### ####  #
+## ##### ###          #
+#  $ ## $  # ## ####  #
+#  $ ## $$ # #.....#  ##
+#      $$ $#  .....#   #
+#  $$##  $  ##.....    #
+##   ##     ##.....#####
+ #######@#####.....#
+       ###   #######
+Title: Room #11, A5
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+       #####
+      ##   #
+  #####.$  #   
+ ##   # #### 
+## $  #   ####
+#   $$# $    #
+# $  $  #$ $ #
+## $    # $$ #
+ ###### ## $ #
+  #...#  #   #
+  #      #####
+  #.  # ##
+  #.# #.###
+  #... ...#
+  ###  ####
+    #@ #
+    ####
+Title: Room #12, B2
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Box at the top is a requirement to finish there.
+Comment-End:
+
+   ###    ######
+   # #    #...##
+   # #   ##...####
+   # #####....   #
+   # ##......#####
+   #     ....#  ##
+   # $###  ###  ##
+   #  #  #$# $ $ #
+#### ##$  $    $ #
+#  $$$   # #  #  #
+#     $ $# ##$  ##
+##  #$ $ #  $  $#
+ ####   $ $ #$  #
+    #   #  ##  #
+    #####@###  #
+        ### ####
+Title: Room #13, B3
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+  ###########
+ ##.#      ####
+##..# $  $ #  #
+#...# ## $ #  #
+#....   #$$   #
+##... $    #$ #
+#### #######  #
+#   $        ##
+#  $ #   # $ ##
+# $###   # $$ #
+#   @#  ##    #
+###############
+Title: Room #14, B4
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+       ####
+   #####  #
+ ###   $ $###
+ #  $  # $  #
+## ## ##    #
+#  ##  ###  #
+# ## $ $  # ##
+#  #$ $ $  $ #
+#    $  ### ##
+# $## $#     #
+##  #  #.... #
+#@   # #....##
+#### $  #.#.#
+   ##   ....#
+    #########
+Title: Room #15, C4
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+       ####     ###
+########  ####### #
+#       $      $  ##
+# ######   ## ##   #
+# #...##$#$$ $ $$# #
+# #...   #       # #
+# #...   $$### #$  ###
+# #... ## $  $$  $   #
+# #....##       $###@#
+# #############  #   #
+#             #### ###
+#############      #
+            ########
+Title: Room #16, E4
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+      ###### ######
+      #    # #    #
+      #  $ ### ## ##
+      #  $$     $$ #
+      # # ## ## $  #
+      # #    $ $ # #
+####### ## #  $  $ #
+#    ## ##   $# #  #
+# ## ## ####  # ####
+#   @   #  ##$ $  #
+#### ## #     $ $ #
+#....   #  ### ## ##
+#.... ##   ### #   #
+#.....       #$$   #
+#....######    #   #
+######    ##########
+Title: Room #17, F4
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+#########
+#       #
+# # ### #
+# #...# # #####
+#  ...  ###  ######
+# #...# #         #
+# ## ## #  $  #$  #
+#      $## ####  ##
+#### $#  # ## ## #
+   # $    $ #### #
+   #   ### $## $ #
+   #####@ $      #
+       ####### # #
+             #   #
+             #####
+Title: Room #18, E5
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+   ########
+   #    # ##
+#### ## # ##
+#@ $  $   #####
+# # $  $  #   #
+#  $  ##### $ #
+#### ## # ##  #
+  #  ## # ### ##
+  #        $   #
+ ########      #
+ #.......   ####
+ ############
+Title: Room #19, F5
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+     ### ####
+ ##### ###  #
+ #...# # $$ #
+ #...# #    #
+ #... $ $ $ #
+ #.. ###  $ #
+###$##### ###
+#   ###  $  #
+#      $    #
+# $$ ### ####
+##   # #@#
+ ##### ###
+Title: Room #20, F6
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+ #####
+ #...#####
+ #...#   #####
+ #...# $$##  #
+## ..#     $ #
+#    # ###   #
+#   ## $  $###
+###   $ $$ ###
+  #. #$  $  @#
+  #.##  $  ###
+  #### $ $  #
+     ### ## #
+       #    #
+       ######
+Title: Room #21, E6
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+#########
+#   ##  ########
+#     $ #    @ #
+##$##  $  #### #
+ # ### ####  ###
+ # #..*.###$   #
+ # #.... $   # #
+ # $....# #    #
+##  ##### ######
+#    $    #
+### $  $###
+  ## $$ #
+   ##   #
+    ##  #
+     ####
+Title: Room #22, D6
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+  ######
+  #    ######
+####  $ $   #
+#.  # $  $$ #
+#...$  $ $  ## ###
+#..##  $$ $  ###@#
+#...#### ## $#   #
+# ...#    #   $ ##
+# ...#    #  # ##
+# ..### ######  #
+#..##  $$       #
+#.## $ $  $ #####
+####  $  $ ##
+   #   ######
+   #####
+Title: Room #23, B6
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+ ###########
+ #     #   #
+ # $ $     #  #####
+ ## # ##$ #####   #
+ #  $ #  #   ## $ ##
+ # $$$## # $$   $ @#
+ #    #  #   ### ###
+ #$##### ###   # #
+ #....#  $     # ###
+##....# $ ## ###   #
+# ....$   # $   $$ #
+# ....##  # $ ##   #
+##...######   ######
+ #####    #####
+Title: Room #24, A6
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+    ####
+  ###  #########
+### $ $$ $ #   #
+#  $    $   $  #
+#    $  $# # $ #
+#### ### # ##  #
+ #  $  #   @####
+ # $ $ ## ...##
+ #  $   ##....##
+ ###$  $ ##....#
+   #  $  ###...#
+   ####  # #...#
+      #### #####
+Title: Room #25, B5
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+      ####
+ ######  #
+ #    #  ####
+ # $  # $   #
+## $###$#   #
+#@ $      ###
+### ## # ###
+ ##$##$#   ###
+ #    $ ##$  #
+##  $ $    $ ##
+#  $ $  ##    #
+#  $  $  #### ###
+#######$$ $ $   #
+ #..........#   #
+ #..........#####
+ ############
+Title: Room #26, C5
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+#########
+#.......#########
+##...    $  $   #
+ ##.    # $  $  #
+ #  ##### $ # ###
+ ####   ##$ $ #
+        # $  $###
+        # $#$  @#
+        #     ###
+        #######
+Title: Room #27, C6
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Two boxes and targets are removed as redundant.
+Comment-End:
+
+  ###########
+  # #  ##   ###
+  # # $  $    #
+  # #  $# $$  #
+ ## # $ #$  ###
+ #. ### # $ #
+ #..  # # $ #
+##..     $$ #
+#... $###   #
+#.... # ## ##
+#######  #@#
+         ###
+Title: Room #28, D5
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+               ###
+               #.######
+              ##.  $  #
+              #  #### #
+              # $#    #
+###############  # ##$#
+#@*           # ## ## #
+###   ### ###         ##
+  #####     ####### $..#
+  #             # ## ###
+  ###         ###  # #
+    ###  $  ###    #$#
+      ## . ##      #.#
+       #####       ###
+Title: Room #29, D4
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+This is not a mistake; this level was root for almost half of dungeon.
+Comment-End:
+
+     #####
+     #...#
+     #...#
+     ##..#
+      # $#
+ ######  #
+##@   $  #
+#  #  $  #
+# $$ $####
+# $  $ #
+####   #
+   #####
+Title: Room #30, D1
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+       #####  #####
+       #@  ####   #
+  ######   $  #$ $####
+ ###..### ##      $  #
+ #...      #  # $    #
+ #.  $# ## ## ## $#$ #
+##..  # $    $###  $ #
+#...#######   # ##   #
+#####     #####  #####
+Title: Room #31, E1
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+    #####  ######
+ ####   ####   .#
+## $  $     $##.#
+#  $# $  ##  ##.####
+# $$ $$  # $ .#.#  #
+#     ####  $.#    #
+### ###  #.#.##    #
+  #  @#  #.# #    ##
+  #####  #.# #   ##
+         #.# ## ##
+         #.   $ #
+         #####  #
+             ####
+Title: Room #32, E2
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+   #####
+   #...##
+   #... #######
+   #..        #
+   ### ######.###
+  ## $ ##### .$ ###
+ ##  $   # $$     #
+ #  # $$ # $ $## ##
+ #  $ #  #  $  ...#
+## $$$  ###    # .#
+#  $  ######.$ #  #
+##  #       .# #$$#
+ #####@#######.   #
+     ###     ######
+Title: Room #33, E3
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Beware: one box is redundant.
+Comment-End:
+
+   ######
+#####   #
+#    $  #
+#@$ $$ #######
+## $# $##....#
+ #$   $ ..#.*##
+ # $$$ #..*.*.#
+ #     #      #
+ #######      #
+ #   $.##     #
+ #   #        #
+ #########   ##
+         #####
+Title: Room #34, F3
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Box at the bottom is a requirement to finish there.
+Comment-End:
+
+     ######
+     #    #
+     # $$ #
+     #  $ ######
+ ###### $ ##   ##
+ #@ ### ##   #$ #
+ #         $$ $ #
+ # #### # $     #
+ # $  # # $$$  ##
+ # ## # #     ##
+ #. # # #######
+##.   # #
+#...##  #
+#...## ##
+##.....#
+ #######
+Title: Room #35, F1
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Comment-End:
+
+   #####
+  ##   #####
+  #  $$#...#
+  #  $    .#
+### $  #  .#
+#  $$$ #...#
+# $  ###..##
+## $ ### #####
+ #  $#    #  #
+ ### #    #  #
+   # #    #$ #
+   #@#  #  .##
+   ##########
+Title: Room #36, F2
+Author: R. S. Mesarkishvili
+Comment:
+Converted from KURTAN by OverQuantum, 2003.
+Box at the bottom is a requirement to finish there.
+Comment-End:

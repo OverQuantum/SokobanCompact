@@ -1,0 +1,92 @@
+Name: Tutorial 1 English
+Author: sokobano.de wiki
+Copyright: sokobano.de
+Comment:
+This levelset explains how to play Sokoban. There are also simple strategies explained.
+First let's have a look at the rules of the game:
+The object of Sokoban is to take boxes to designated locations by pushing them.
+To do this the user moves a being who we call Sokoban or pusher. Sokoban can move up, down, left and right. He can't pass through walls or boxes. He can push only one box at a time (never pull). At any time a square can only be occupied by one of a wall, box or man.
+
+(Tutorial converted for SokobanCompact by OverQuantum, 2009)
+Comment-End:
+
+#########
+#@  $  .#
+#########
+Title: Level 1
+Comment:
+Using the arrow keys one has to press the "right" 5 times. Using the stylus (or mouse) you have to mark the box for pushing (by clicking on it) and then clicking at the position the box is to be pushed to.
+Comment-End:
+
+########
+#    ###
+#@$  ###
+#### ###
+##   ###
+##    ##
+#  ##. #
+#      #
+#####  #
+########
+Title: Level 2
+Comment:
+Here the difference between playing with keyboard and playing with stylus (or mouse) is demonstrated. Using the stylus/mouse is as simple as in Level 1. Using the arrow keys needs a lot of key presses for pushing the box to the goal. Hence, it's always recommended to use the stylus/mouse for playing. The advantages compared to keyboard playing are:
+1. With two clicks a box can be pushed to every possible square.
+2. Most programs (including SokobanCompact) automatically calculates the best moves for the pusher. Hence the user doesn't have to think about how to move the pusher by keys.
+3. Some programs (including SokobanCompact) even show the squares a box can be pushed to. In this way it's easy to see if a box can be pushed to the selected position.
+4. The user can concentrate on pushes only instead of moves and pushes.
+Levels containing only one box are very simple to solve using the stylus/mouse: one just has to mark the box for pushing and then to choose the goal square as target.
+Usually Sokoban levels are a lot more complicated.
+Comment-End:
+
+########
+#      #
+#  $  .#
+#@ $  .#
+#  $  .#
+#      #
+########
+Title: Level 3
+Comment:
+Here the level contains 3 boxes. Nevertheless the level can easily be solved. Although every box can be pushed to each goal it doesn't matter which box is pushed to which goal. The boxes can just be pushed one after the other to any goal.
+Comment-End:
+
+########
+#  #.  #
+# $#   #
+#  # @##
+#  # $##
+#    .##
+########
+Title: Level 4
+Comment:
+This level is more complicated. The box under the pusher is close to a goal. Nevertheless it can't be pushed to the goal - this would result in a deadlock. This level shows some problems one has to solve before it's possible to finish the level:
+1. Not every box can be pushed to every goal.
+2. Boxes can't just be pushed to the nearest goal in every case.
+3. Box pushes can create a deadlock.
+Comment-End:
+
+#########
+##  #   #
+#.$.  $ #
+# #  ## #
+# @$.$. #
+#########
+Title: Level 5
+Comment:
+To solve this level the boxes have to be pushed to their goals in a specific order. Moreover one box has to be pushed away from its goal before it can be pushed to it.
+Comment-End:
+
+#########
+#  #   .#
+#@$ $   #
+# $ ##..#
+#   #####
+#########
+Title: Level 6
+Comment:
+This level is another example of the need to push a box away from its goal before the level can be solved. Additionally one box has to be "parked" until some other boxes have reached their goals. A situation where a box must be pushed but can't be pushed immediately to its goal occurs very often in Sokoban levels. Some of them are "parking" situations. "Parking" means:
+1. A box must be pushed away from its goal.
+2. After the box is pushed to its parking position another box has to be pushed.
+3. Parking the box at a specific position is required to solve the level.
+Comment-End:

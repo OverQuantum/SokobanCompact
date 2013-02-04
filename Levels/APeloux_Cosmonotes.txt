@@ -1,0 +1,249 @@
+Name: COSMONOTES 
+Author: Aymeric du Peloux
+Comment:
+Email: aymeric.du-peloux@gadz.org
+Website: http://membres.lycos.fr/nabokos
+Comment-End:
+Copyright: 2003 - 2004 - Copyright by Aymeric du Peloux //
+
+
+########
+#@  #  #
+# ..   ##
+##.##   #
+ #  $$# #
+ ###$   #
+   #  ###
+   ####
+Title: COSMONOTES 1
+Comment: Difficulty : 4.5
+
+ ####
+ #  ######
+ #       #
+## ####  #
+#@* ### ##
+#  * ## #
+##  * # ##
+ ## .$#  #
+  ##     #
+   ####  #
+      ####
+Title: COSMONOTES 2
+Comment: Difficulty : 5
+
+ #########
+ #       #
+ # ##### #
+ # #   # #
+ # $.#@# #
+###$.  # #
+#  $.### #
+# #$.    #
+#    #####
+######
+Title: COSMONOTES 3
+Comment: Difficulty : 6.5
+
+ #####
+ #   ####
+ # #$$  #
+## #@ # #
+#  #$. .#
+#  .$. ##
+###  # ##
+  ##    #
+   ##   #
+    #####
+Title: COSMONOTES 4
+Comment: Difficulty : 7.5
+
+      ####
+#######  ##
+#@$       #
+# *###  # #
+##..    # #
+##*#      #
+# $  ######
+#   ##
+#####
+Title: COSMONOTES 5
+Comment: Difficulty : 7
+
+ ########
+ #  ##  #
+ #.$   .###
+ # .## $  #
+##$### #  #
+# $    # ##
+# @ #.    #
+#######   #
+      #####
+Title: COSMONOTES 6
+Comment: Difficulty : 8
+
+  #####
+  #   ###
+  # #*  #
+ ##+*   #
+ #   # ##
+##$#*#  #
+#    *  #
+#   ##  #
+#########
+Title: COSMONOTES 7
+Comment: Difficulty : 7
+
+######
+#    ####
+# ## .  #
+# ###*# #
+# # $@# #
+# # * # #
+#   *   #
+## # ####
+ #   #
+ #####
+Title: COSMONOTES 8
+Comment: Difficulty : 8.5
+
+  #######
+  #     #
+### ### #
+# $ $ # #
+#...@.# #
+# $ $ # #
+### ### #
+ #      #
+ #   ####
+ #####
+Title: COSMONOTES 9
+Comment: Difficulty : 7
+
+#### #####
+#  ###   #
+#  $     #
+#  #$##$##
+## #@    #
+ # #$# # ##
+ # # . .  #
+ #    #   #
+ #  #. .###
+ ########
+Title: COSMONOTES 10
+Comment: Difficulty : 6.5
+
+   ##### 
+####. .###
+# $  #   #
+#@# .$.$ #
+# $ # # ##
+###     #
+  #######
+Title: COSMONOTES 11
+Comment: Difficulty : 6
+
+  ########
+ ##  #   #
+##       #
+#  # .# ##
+# $* **$#
+## ##.# #
+ # #@   #
+ #    ###
+ ######
+Title: COSMONOTES 12
+Comment: Difficulty : 6.5
+
+ #######
+ #  #  #
+ #     #
+## ##  #
+#   #.##
+#   *  #
+### *  #
+  #$* ##
+  #@ ##
+  ####
+Title: COSMONOTES 13
+Comment: Difficulty : 6.5
+
+   ####
+####  ##
+# $    ##
+#.+***  #
+# $     #
+#####  ##
+    ####
+Title: COSMONOTES 14
+Comment: Difficulty : 6.5
+
+ #####
+ #@. #
+##$.$##
+#  *  ##
+#  .$  #
+####   #
+   #####
+Title: COSMONOTES 15
+Comment: Difficulty : 6
+
+  ######
+ ##    #
+## @## #
+#  #  $###
+#  ....$ #
+#  # $   #
+######$ ##
+     #  #
+     ####
+Title: COSMONOTES 16
+Comment: Difficulty : 7
+
+#########
+#   #   #
+# $   $ #
+##$#@#$##
+ #. ..  #
+ ## .#  #
+  ##   ##
+   #####
+Title: COSMONOTES 17
+Comment: Difficulty : 6.5
+
+  #######
+###     #
+#   ### #
+# #$* # #
+#  $. # #
+###$.   #
+  #@. ###
+  #####
+Title: COSMONOTES 18
+Comment: Difficulty : 7
+
+ ####
+ #  ###
+## * @#
+#  *#$##
+#  .   #
+## * # #
+ # * # #
+ ## #  #
+ #    ##
+ #   ##
+ #####
+Title: COSMONOTES 19
+Comment: Difficulty : 8
+
+   ####
+####@ ###
+#  $ $  ##
+# #$#$#  #
+# # . .  #
+# # . . ##
+# ## ####
+#    #
+######
+Title: COSMONOTES 20
+Comment: Difficulty : 7

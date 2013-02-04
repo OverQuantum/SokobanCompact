@@ -1,0 +1,952 @@
+;this file was created by Sokoban++
+
+Name: Online
+Author: Francois Marques (Francois.Marques@freesbee.fr)
+Copyright: Francois Marques
+;-----------------------
+
+      #####
+  ##### @ #####
+  #.    $    .#
+ ## ####*#### ##
+ #  #       #  #
+##*## $$ $$ ##*##
+#   * .#.#. *   #
+#   *$.#.#.$*   #
+##*##  $ $  ##*##
+ #  # $   $ #  #
+ ## ####.#### ##
+  #.         .#
+  #####   #####
+      #####
+Title: SEP01: The ball
+Author: Francois Marques
+Comment:
+Date 2001/08/27
+Expiration: 2001/10/07
+
+Comment-End:
+
+ ####
+ #  ###########
+ #*  $   $  * #
+ #  ## $ ##   #
+ # #  # #  # ##
+## #  #.#  # ##
+#   ##...##   #
+# $  .*.*.  $ #
+##$ ## . ## $##
+ # #  #.#  # #
+## #   @   # #
+#   ## $ ##  #
+# *    $    *#
+###########  #
+          ####
+Title: OCT01: La fleche
+Author: Francois Marques, Julien Ferreira
+Comment:
+Date: 2001/08/30
+Expiration: 2001/10/29
+
+
+Comment-End:
+
+ ####
+ #  ###########
+ #*  $   $  * #
+ #  ## $ ##   #
+ # #  # #  # ##
+##  # #.# #  ##
+#   ##.*.##   #
+# $$*..*..*$$ #
+#   ## . ##   #
+## #  #.#  # ##
+## #   @   # #
+#   ##$ $##  #
+# *         *#
+###########  #
+          ####
+Title: La fleche (variation)
+Author: Francois Marques, Julien Ferreira, Howard Abed
+Comment:
+Cette variation du concours m'a étée soumise par Howard Abed le 10 octobre 2001.
+
+Comment-End:
+
+  ###########
+ #     #     #
+ # * * * * * #
+#   * * * *   #
+# ## * * * ## #
+# ### * * ### #
+# #### + #### #
+# ##  * *  ## #
+# ## * * * ## #
+#   * * * *   #
+ # * * * * * #
+ #  #  $  #  #
+ #####   #####
+     #  ##
+     ####
+Title: NOV01: The skull
+Author: Francois Marques
+Comment:
+Date: 2001/10/05
+Expiration: 2001/12/03
+
+Comment-End:
+
+  ###########
+ #     #     #
+ # * * * * * #
+#   * * * *   #
+# ## * * * ## #
+# ### * * ### #
+# #### + #### #
+# ##  * *  ## #
+# ## * * * ## #
+#   * * * *   #
+ # * * * * * #
+ ####  $  #  #
+    ##   #####
+     #  ##
+     ####
+Title: The skull (variation 1)
+Author: Francois Marques
+Comment:
+Voici la version originelle. Elle est bien plus difficile que celle qui a fait l'objet du concours.
+
+Comment-End:
+
+  ###########
+ #     #     #
+ # * * * * * #
+#   * * * *   #
+# ## * * * ## #
+# ### * * ### #
+# #### + #### #
+# ##  * *  ## #
+# ## * * * ## #
+#   * * * *   #
+ # * * * * * #
+ ####  $  ####
+    ##   ##
+     #  ##
+     ####
+Title: The skull (variation 2)
+Author: François Marques, Evgeny Grigoriev
+Comment:
+Cette variation du concours m'a été soumise par Evgeny le 27 août 2002.
+
+Pour les plus acharnes, en voici une autre version que m'a propose Evgeny Grigoriev. Ma meilleure solution requiere 253 deplacements, 59 poussees, 43 poussees en ligne, 41 changements de caisse et 42 phases de rangement.
+Si vous avez mieux, n'hesitez pas a m'en faire part !
+
+Comment-End:
+
+ ###############
+#       #       #
+# * * * * * * * #
+#  * * * * * *  #
+# # * * * * * # #
+# ## * * * * ## #
+# ### * * * ### #
+# # ## * * ## # #
+# ##### + ##### #
+#   #  * *  #   #
+### # * * * # ###
+  #  * * * *  #
+  ### * * * ###
+    ##  $ ###
+     ##   #
+      #  ##
+      ####
+Title: The skull (variation 3)
+Author: Francois Marques, Evgeny Grigoriev
+Comment:
+Cette variation du concours m'a été soumise par Evgeny le 3 septembre 2002 à laquelle j'ai ajouté quelques modifications.
+
+Si vous ne vous etes toujours pas lasse de ce tableau, voici une autre version encore, toujours due a l'excelent Evgeny (alias GriGoRusha).  
+
+Comment-End:
+
+      #
+     #@#
+     #* #
+    #. *#
+    # * .#
+   # * * #
+   #* * * #
+   # * . *#   ###
+  # . * * #  #   #
+  #* * * * ## $ $ #
+ #* * * * *# $ $ $ #
+ # * * * . #$ # #  #
+ #* * . * **   $ $ #
+ # . * * * #$ $#$  #
+# * * * * *       #
+#* * * * . *## $ ##
+# * * * * *#..$ $..#
+#. * . * *#.$$.#.$ .#
+# . * * * #.$ $ $ $.#
+ # * * * #.$ $ # $$$.#
+ #* . * *#. $ $ $ $ .#
+  #  ....#.$ $ # $ $.#
+   ###..###.$ $ $ $.#
+    #*..*# #.$   $.#
+    ######  #######
+Title: DEC01: Chrismas
+Author: Francois Marques
+Comment:
+Date: 2001/10/15
+Expiration: 2001/12/30
+
+Comment-End:
+
+  #######
+###  #  ###
+# $$ # $$ #
+# ...@... #
+#  $.#.$  #
+###$$#$$###
+#    #    #
+# **.*.** #
+##   #   ##
+ #   #   #
+ #########
+Title: JAN02: The angry man
+Author: Francois Marques
+Comment:
+Date: 2001/12/20
+Expiration: 2002/01/27
+
+
+Comment-End:
+
+   ####
+   #  ######
+   #       #
+   # ##$## #
+#### #   # ###
+#    $.#.$   #
+#  ##..$..## #
+## # .$$$. # #
+ # $ #$+$# $ #
+ # # .$$$. # ##
+ # ##.. ..##  #
+ #   $.#.$    #
+ ### #   # ####
+   # ##$## #
+   #       #
+   ######  #
+        ####
+Title: FEB02: Shifted
+Author: Francois Marques
+Comment:
+Date: 2001/12/25
+Expiration: 2002/02/24
+
+
+Comment-End:
+
+     #########
+   ###   @   ###
+#### $$$$#$$$$ ####
+#   ...........   #
+#  $.$$$$#$$$$.$  #
+###$.$.......$.$###
+  # .$.$$#$$.$. #
+ ##$.$...$...$.$##
+ # $.$$$.#.$$$.$ #
+ #  .....$.....  #
+ ## $ $$ # $$ $ ##
+  #####     #####
+      #######
+Title: MAR02: Cuzco
+Author: Francois Marques
+Comment:
+Date: 2002/01/20
+Expiration: 2002/03/31
+
+Comment-End:
+
+     #########
+   ###   @   ###
+#### $$$$#$$$$ ###
+#   ...........  #
+#  $.$$$$#$$$$.$ #
+###$.$.......$.$##
+  # .$.$$#$$.$. #
+ ##$.$...$...$.$##
+ # $.$$$.#.$$$.$ #
+ #  .....$.....  #
+ ## $ $$ # $$ $ ##
+  #####     #####
+      #######
+Title: Cuzco (variation 1)
+Author: Francois Marques
+Comment:
+Voici la version originale de ce tableau. Notez l'ajout des deux cases en haut a droite dans le tableau du concours, je les ai ajoutees afin de rendre le tableau plus joli (symetrique) et plus facile. 
+Comment-End:
+
+    #########
+  ###   @   ###
+### $$$$#$$$$ ###
+#  ..... .....  #
+# $.$$$$#$$$$.$ #
+##$.$.......$.$##
+ # .$.$$#$$.$. #
+##$.$...#...$.$##
+# $.$$$.#.$$$.$ #
+#  .....$.....  #
+## $ $$ # $$ $ ##
+ #####     #####
+     #######
+Title: Cuzco (variation 2)
+Author: Francois Marques
+Comment:
+Je vous propose aussi cette variante que je trouve jolie et qui ne manque pas d'interet non plus.
+Antoine de Tonnac m'a envoye ses solutions en 730 deplacements, 152 poussees, 108 poussees en ligne, 87 changements de caisse et 95 phases de rangement.
+
+
+Comment-End:
+
+  #### ####
+###  ###  ###
+#     $     #
+# # ##$## # #
+# #.. * ..# #
+# $$*.#.*$$ #
+# #  .@.  # #
+# $$**#**$$ #
+# #.. * ..# #
+# # ##$## # #
+#     $     #
+##  #####  ##
+ ####   ####
+Title: APR02: X
+Author: Francois Marques
+Comment:
+Date: 2002/03/20
+Expiration: 2002/04/28
+
+Comment-End:
+
+   #######
+ ###     ###
+ #  $ $ $  #
+## *.*.*.* ##
+# $.$.$.$.$ #
+#  *.* *.*  #
+# $.$ @ $.$ #
+#  *.* *.*  #
+# $.$.$.$.$ #
+## *.*.*.* ##
+ ## $ $ $ ##
+  ##     ##
+   #######
+Title: MAY02: The grid
+Author: Francois Marques
+Comment:
+Date: 2002/02/11
+Expiration: 2002/06/02
+
+Comment-End:
+
+   #######
+ ###     ##
+ #  $ $ $ ##
+## *.*.*.* ##
+# $.$.$.$.$ #
+#  *.* *.*  #
+# $.$ @ $.$ #
+#  *.* *.*  #
+# $.$.$.$.$ #
+## *.*.*.* ##
+ ## $ $ $ ##
+  ##     ##
+   #######
+Title: The grid (variation)
+Author: Francois Marques
+Comment:
+Voici une legere variation.
+
+Comment-End:
+
+  ##### #####
+ ##   ###   ##
+ # $ $...$ $ #
+##$ $.***.$ $##
+#  $.*...*.$  #
+#  $.*.$.*.$  #
+# $.*.$$$.*.$ #
+##$.*.$@$.*.$##
+# $.*.$$$.*.$ #
+#  $.*.$.*.$  #
+#  $.*...*.$  #
+##$ $.***.$ $##
+ # $ $...$ $ #
+ ##   ###   ##
+  ##### #####
+Title: JUN02: The big circle
+Author: Francois Marques
+Comment:
+Date: 2002/04/03
+Expiration: 2002/06/30
+
+Comment-End:
+
+ ####     ####
+ #  #######  #
+ #$ $ $ $ $ $#
+ # ......... #
+##$.$#$*$#$.$##
+#  . . . . .  #
+# $$$#$@$#$$$ #
+#  . . . . .  #
+##$.$#$*$#$.$##
+ # ......... #
+ #$ $ $ $ $ $#
+ #  #######  #
+ ####     ####
+Title: JUL02: The square
+Author: Francois Marques, York Shen
+Comment:
+Date: 2002/06/24
+Expiration: 2002/07/28
+Comment-End:
+
+ ####     ####
+ #  #######  #
+ #$ $ $ $ $ $#
+ # ......... #
+##$.$#$*$#$*$##
+#  . . . . .  #
+# $*$#$+$#$*$ #
+#  . . * . .  #
+##$*$#$*$#$.$##
+ # ......... #
+ #$ $ $ $ $ $#
+ #  #######  #
+ ####     ####
+Title: The square (variation)
+Author: Francois Marques, York Shen
+Comment:
+Version submited to François Marques with no solution on 2003/01/08.
+Solution found by François Marques after 1h40' !
+
+Si vous aimez ce tableau, essayez cette version que m'a envoye York Shen.
+Il a ajoute 3 caisses et bien qu'il ne soit pas parvenu a trouver une solution, il a senti qu'elle existait.
+Il m'a donc suffit de la trouver ;).
+Mes scores sont de en 2078 deplacements, 315 poussees, 191 poussees en ligne, 157 changements de caisse et 179 phases de rangement seulement ! On peut certainement faire mieux.
+
+Comment-End:
+
+        #### ####
+   ######  # #  #
+#### $    $###  ##
+# .+.#..#.*.*.$  #
+#  $ $  $ $ $ $  #
+## ##*..*.*.*.$###
+ # $ $ ###     #
+ ### $ # #######
+   #   #
+   #####
+Title: AUG02: The cloud
+Author: Francois Marques
+Comment:
+Date: 2002/07/05
+Expiration: 2002/09/01
+
+Comment-End:
+
+   #######
+   #     #
+   # ### #
+ ###  @  ###
+## $$.#.$$ ##
+#  *..*..*  #
+# # ##.## # #
+# $  $.$  $ #
+#  ##*$*##  #
+##    *    ##
+ #### . ####
+    # * #
+    #   #
+    #####
+Title: SEP02: The umbrella
+Author: Francois Marques
+Comment:
+Date: 2002/07/18
+Expiration: 2002/09/29
+
+Comment-End:
+
+   #########
+   #       #
+   # ##### #
+ ###   @   ###
+## $$.###.$$ ##
+#  *.. * ..*  #
+# ## ##.## ## #
+#  $  $.$  $  #
+## ###*$*### ##
+ #     .     #
+ ##### * #####
+     #   #
+     #####
+Title: The umbrella (variation)
+Author: Francois Marques
+Comment:
+Voici la version initiale de ce tableau. Elle me semble plus facile que celle du concours.
+
+Comment-End:
+
+  ####     ####
+###  #######  ###
+#    #     #    #
+# $$...$$$...$$ #
+#  ## ## ## ##  #
+##..$$$...$$$..##
+ ##     #     ##
+  #####   #####
+ ##     #     ##
+ #..$$$...$$$..#
+## ## ## ## ## ##
+# $$...$$$...$$ #
+#    #  @  #    #
+###  #######  ###
+  ####     ####
+Title: OCT02: The mirror
+Author: Francois Marques
+Comment:
+Date: 2002/08/06
+Expiration: 2002/10/27
+
+Comment-End:
+
+#########
+#       ##
+# $$$$#  #
+##       ##
+###### #  #####
+#     .#$ #   #
+# # #$# $ $$  #
+#   *.#.###   #
+### #.@..## $##
+#   #.#...* $ #
+# # $...#.# $ #
+#   ###...*   #
+###   $*#$#$$ #
+  ### #     ###
+    #   #####
+    #####
+Title: NOV02: Stor Age
+Author: Francois Marques
+Comment:
+Date: 2002/10/05
+Expiration: 2002/12/01
+
+
+Comment-End:
+
+#########
+#       ##
+# $$$$#  #
+##       ##
+###### #  #####
+#     .#$ #   #
+# # ### $ $$  #
+#   *.#.###   #
+### #...@## $##
+#   #.#*..* $ #
+# # $...### $ #
+#   ###...*   #
+###   $*#$#$$ #
+  ### #.    ###
+    #   #####
+    #####
+Title: Stor Age (variation)
+Author: Francois Marques, Evgeny Grigoriev
+Comment:
+Voici une version incluant une contribution d'Evgeny Grigoriev.
+
+Cette variation du concours m'a été soumise par Evgeny le 30 octobre 2002 à laquelle j'ai ajouté quelques modifications.
+
+Comment-End:
+
+ #############
+ #     #     #
+## # ***** # ##
+#  # * . * #  #
+#  #  #$#  #  #
+# **  # #  ** #
+# * ### ### * #
+# *    $    * #
+# * ### ### * #
+# **  # #  ** #
+#  #  # #  #  #
+# ## * . * ## #
+#  # ***** #  #
+##     @     ##
+ #############
+Title: DEC02: The crossroads
+Author: Francois Marques
+Comment:
+Date: 2002/10/09
+Expiration: 2003/01/05
+
+Comment-End:
+
+ #############
+ #     #     #
+## # ***** # ##
+#  # * . * #  #
+#  #  #$#  #  #
+# **  # #  ** #
+# * ### ### * #
+# *.   $   .* #
+# * ### ### * #
+# **  # #  ** #
+#  # $# #$ #  #
+# ## * . * ## #
+#  # ***** #  #
+##     @     ##
+ #############
+Title: The crossroads (variation)
+Author: Francois Marques
+Comment:
+Si ce tableau vous plait, essayez la version originale , elle est un peu plus difficile ;)
+Sebastien Gouezel est parvenu a la resoudre en 805 deplacements, 99 poussees, 68 poussees en ligne, 64 changements de caisse et 56 phases de rangement seulement !
+ 
+
+Comment-End:
+
+#######     #######
+#     #######     #
+# $$..$     $..$$ #
+# $.$.## # ##.$.$ #
+# $.$.$     $.$.$ #
+# $...###.###...$ #
+#####$#     #$#####
+  #   . *** .   #
+  # #$#**@**#$# #
+  #   . *** .   #
+#####$#     #$#####
+# $...###.###...$ #
+# $.$.$     $.$.$ #
+# $.$.## # ##.$.$ #
+# $$..$     $..$$ #
+#     #######     #
+#######     #######
+Title: JAN03: The towers
+Author: Francois Marques
+Comment:
+Date: 2002/11/16
+Expiration: 2003/02/02
+
+Comment-End:
+
+#############################
+#             @             #
+# #$###$#$#$#$###$#$#$#$### #
+# # . . .   # . . .   #   . #
+# #$#.#.###$#$#.#$###$#$#$# #
+# .   # . . .   #   . . . # #
+# ###$#$#.#$###$#$#.#$###$# #
+# . . .   # . . .   #   . . #
+# #$#.###$#.#$#$###$#$#$#$# #
+#   # . . .   #   . . . #   #
+# #$#$#$#$###$#$#.#$###.#$# #
+# . .   #   . . . #   . . . #
+# #$###$#.#$#$###$#.#$#$### #
+# # . . .   # . . .   #   . #
+# #$#$#$###$#.#$#$###$#.#$# #
+# .   #   . . . #   . . . # #
+# ###$#$#$#$###$#$#$#$###$# #
+#                           #
+#############################
+Title: FEB03: The maze
+Author: Francois Marques
+Comment:
+Date: 2003/01/22
+Expiration: 2003/03/02
+
+
+Comment-End:
+
+#############
+#     #     #
+# * $.*.$ * #
+#  ###$###  #
+# $#  .  #$ #
+# .#$..$$#. #
+# *$.. ..$* #
+# .#$$..$#. #
+# $#  .  #$ #
+#  ###$###  #
+# * $.*.$ * #
+#     #     #
+##### @ #####
+    #####
+Title: MAR03: The jail
+Author: Francois Marques
+Comment:
+Date: 2003/03/02
+Expiration: 2003/03/31
+
+
+Comment-End:
+
+ #######
+ #@ #  #####
+##$$$$ ##   ##
+#   #...  #$  #
+# # #.. #.*.*. #
+#     # #$ * $ ###
+###$$#....*.*.   #
+  #    $ $ $ $ $ #
+  ##  ############
+   ####
+Title: APR03: Come back
+Author: Francois Marques
+Comment:
+Date: 2003/03/01
+Expiration: 2003/04/30
+
+Comment-End:
+
+    #####
+ #### @ #
+ #  # # # ######
+## $$ $ ###    #
+#   #...  #$ $ #
+# #$#.. #.*.*. #
+#     # #$ $ * #
+###$$#....*.*. #
+  #    $ $ $ $ #
+  ##  ##########
+   ####
+Title: Come back (variation)
+Author: Francois Marques
+Comment:
+Je vous propose aussi cette variante , qui est plus facile que le concours.
+
+Comment-End:
+
+        #######
+      ##       ##
+     #  ** # **  #
+     #  * *.* *  #
+   ##### * # *  ####
+###    #   #  ##    ###
+#    $ .## $ ## $$$.  #
+# $.$#$. # # # . # *  #
+ # * * * # $ # .$.$. #
+ # .*.*.$# # #$*.*.* #
+ # $ $   * * *  $ $  #
+  ##### ## # ## #####
+      #  .*.*.  #
+      ### #@# ###
+        #     #
+        #######
+Title: MAY03: The spy
+Author: Francois Marques
+Comment:
+Date: 2003/01/10
+Expiration: 2003/05/31
+
+Comment-End:
+
+          #
+         #@#
+        #   #
+       #  $  #
+       #.$$$.#
+      # . # . #
+     ##$.$#$.$##
+   ## $ . # . $ ##
+  # ....*$#$*.... #
+ #  $ $ $...$ $ $  #
+#  $$####.#.####$$  #
+ #  $ $ $...$ $ $  #
+  # ....*$#$*.... #
+   ## $ . # . $ ##
+     ##$.$#$.$##
+      # . # . #
+       #.$$$.#
+       #  $  #
+        #   #
+         # #
+          #
+Title: JUN03: The diamond
+Author: Francois Marques
+Comment:
+Date: 2003/05/13
+Expiration: 2003/06/30
+
+Comment-End:
+
+   #####
+  ##   #
+##   # #
+#  #   #
+#     ########
+#  #  ...... #
+####  .#.# # #######
+    # ...#         #
+   ## #...  #$#### ##
+   #  #.### @ #     #
+   # ##...#  ## $ $ #
+  ##  .... # # $ $ #
+  #  #....#   # $ $#####
+  #    #.. # # $ $ $   #
+  ####  ##$   # $ $ $  #
+    #  $  $  # $ $ $ $ #
+    # #$  $# #$ $ $ $ #
+    #  $  $     ##    #
+    ###  ####### #  ###
+      ####       ####
+Title: JUL03: The strange thing
+Author: Francois Marques
+Comment:
+Date: 2003/06/18
+Expiration: 2003/07/31
+
+Comment-End:
+
+##################
+#   #   # .      #
+# #$ $$. # #.$ $##
+#  $.#.$ . $.##  #
+# .$ . #.$#$. $. #
+#  # $.$$.#. #.$ #
+## .$.#$.@  ## ###
+# $#. .. #.# .$  #
+# $  .$ # $. $#. #
+#  $ ##.$  $ $ $ #
+### . # #.#.##.$.#
+# $ $ $ $ . .$ #$#
+#   #  #  #   .  #
+##################
+Title: AUG03: The forest
+Author: Francois Marques
+Comment:
+Date: 2003/06/26
+Expiration: 2003/08/31
+
+Comment-End:
+
+#############################
+#             #             #
+# ###$#####$#####$#####$### #
+# # $ $ # $ $ # $ $ # $ $ # #
+# # ... $ ... # ... $ ... # #
+#  $.$.$#$.$.$$$.$.$#$.$.$  #
+### ... # ... # ... # ... ###
+  # $ $ # $ $ # $ $ # $ $ #
+  ###.#####*#####*#####.###
+ ##  $  #     #     #  $  ##
+ #  ...$# ###$#$### #$...  #
+ # #.$. .  $  @  $  . .$.# #
+ #  ...$# ###$#$### #$...  #
+ ### $  #           #  $ ###
+  ###.#####*#####*#####.###
+  # $ $ # $ $ # $ $ # $ $ #
+### ... # ... $ ... # ... ###
+#  $.$.$#$.$.$#$.$.$#$.$.$  #
+# # ... $ ... # ... $ ... # #
+# # $ $ # $ $ # $ $ # $ $ # #
+# ###$#####$#####$#####$### #
+#             #             #
+#############################
+Title: SEP03: Many squares
+Author: Francois Marques
+Comment:
+Date: 2003/08/12
+Expiration: 2003/09/30
+
+Comment-End:
+
+#############################
+#             #             #
+# ###$#####$#####$#####$### #
+# # $ $ # $ $ # $ $ # $ $ # #
+# # .*. $ ... # ... $ .*. # #
+#  $.$.$#$.$.$*$.$.$#$.$.$  #
+### ... # ... # ... # ... ###
+  # $ $ # $ $ # $ $ # $ $ #
+  ###.#####*#####*#####.###
+ ##  $  #     #     #  $  ##
+ #  *..$# ###$#$### #$..*  #
+ # #*$. . .$. @ .$. . .$*# #
+ #  ...$# ###$#$### #$...  #
+ ### $  #     .     #  $ ###
+  ###.#####*#####*#####.###
+  # $ $ # $ $ # $ $ # $ $ #
+### ... # ... * ... # ... ###
+#  $.$.$#$.$.$#$.$.$#$.$.$  #
+# # .*. $ ... # ... $ ... # #
+# # $ $ # $ $ # $ $ # $ $ # #
+# ###$#####$#####$#####$### #
+#             #             #
+#############################
+Title: Many squares (variation)
+Author: Francois Marques, York Shen
+Comment:
+Je vous propose aussi cette variante , qui est plus difficile que le concours. Tian Lang est parvenu a le resoudre en seulement 2474 deplacement !
+
+Date: 2003/08/12
+* addeded 4 boxes by York Shen on 2003/09/04
+* addeded 3 boxes more by François Marques on 2003/09/05
+
+Comment-End:
+
+           #######
+           #     #
+      ###### ### #
+      #        # #
+      # $## $  #$##
+      # .*.## $   #
+      #.*.*.#$#   #
+    ###*.*.*   # ##
+  ###  .*.*. # # #
+ ## $ ###.####   #
+ #   $ @$.$ ##$#$#
+ #   #$$ .  #    #
+ ###   #$#### $#$#
+   # $$......  $ #
+   #   #######   #
+   #####     #####
+Title: OCT03: What's this ?
+Author: Francois Marques
+Comment:
+Date: 2003/09/20
+Expiration: 2003/10/31
+
+
+Comment-End:
+
+######### #########
+#       ###       #
+# # * * * * * * # #
+# #$ * * . * * $# #
+# # * #$* #$# * # #
+# #$ * * . * * $# #
+# # * #$*.#$# * # #
+# #$ * *...* * $# #
+#   ....*@*....   #
+# #$ * *...* * $# #
+# # * #$#.*$# * # #
+# #$ * * . * * $# #
+# # * #$# *$# * # #
+# #$ * * . * * $# #
+# # * * * * * * # #
+#       ###       #
+######### #########
+Title: NOV03: Transgenic cross
+Author: Francois Marques
+Comment:
+Date: 2003/09/05
+Expiration: 2003/11/30
+Comment-End:
+

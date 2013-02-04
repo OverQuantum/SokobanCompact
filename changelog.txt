@@ -1,0 +1,56 @@
+SokobanCompact
+
+History of changes
+
+v0.7, 05.02.2013
++ Added action logging
++ Autosave position on exit and autoload it
++ Improved deadlock calculation
++ Few improvements of levelsets handling
++ minor changes and fixes
++ GPL v3 license
+- no binary files released
+
+
+v0.6.3422.42426, 15.05.2009
++ Autozoom and manual zoom - skin sets are introduced
++ Background image or solid color (6 images from colourlovers.com are included into distributive)
++ Game deadlock indication (i.e. level can not be solved from current position; currently only simplest evaluation)
++ Settings for animation speed 
++ Correct handling deadlock squares and exceeding boxes
++ Improved support of different screen resolutions (should work on any, tested on VGA, QVGA, Sq-VGA, Sq-QVGA)
++ Prevent device from "going asleep" for a little while, than set in Windows (configured in settings)
++ New skin elements "box in deadlock" è "box can be placed into this deadlock".
++ Added menu items "Random Level" and "Random Unsolved"
++ Part of controls on form ChooseLevelSet moved to context menu of levelset list
++ Added loading position with exact level (see note 1 below), now behave like normal savegame.
++ Menu item System Info - show current battery charge and time
++ Lock of level scrolling (now switched only manually) - convenient for levels, that fit into screen
++ Option to autozoom only for useful squares of level
++ Fixed bug with rare additional steps on pushing box by two clicks
++ 5 levelsets from Aymeric du Peloux
++ Tutorial level set (tutorial1eng / tutorial1rus) - see LevelSet Info and Level Info in game.
++ minor changes and fixes
+Notes:
+1) Position file format slightly changed. To use old position files for load with exact level you need to change lines with LevelSet - "LevelSet = aenigma_txt" to "LevelSet = aenigma.txt" and so on, by analogue.
+2) Prevent device from "going asleep" and reading charge level use low-level system functions. Please inform me in case of problems.
+
+
+v0.5.3338.42204, 20.02.2009
+* First publication
++ Convenient control by stylus/touchscreen - move around a level by 1 click, pushing boxes by 2 clicks (control by buttons is also available)
++ Manual zoom and scroll - you can solve large levels with normal zoom (see screenshots above)
++ Unlimited undo and redo
++ Saving and loading positions
++ Animated moving around a level and playing of solutions (can be disabled)
++ Indication of deadlock squares - where boxes should not be pushed (otherwise box can not be pushed to any goal)
++ Position statistics - moves, pushes, box changes e.t.c
++ Counting solved levels and autosave of solutions
++ New levels can be added - game contains 24 levelsets (totally 1700 levels), new levelsets can be loaded in future (supported text format)
++ New skins can be added - supported skins in bmp format
++ Supported levels with unequal number of boxes and goals
+- No installer, zip-archive should be manually unpacked and loaded into device
+- No autozoom
+- Deadlock calculation may be rather slow for large levels (ex. Sasquatch6, level 50 - 35x35 squares)
+- Deadlocks prevent autopushing exceeding boxes (only for levels there boxes exceeds goals)
+- Designed mostly for QVGA (240x320), also works on other screen resolutions, but status bar can be slightly affected

@@ -1,0 +1,468 @@
+;this file was created by Sokoban++
+
+Name: Microkosmos
+Author: Aymeric du Peloux
+Copyright: Unknown
+;-----------------------
+
+#### ####
+#  ###  #
+# $ * $ #
+#   +   #
+### .$###
+  # . #
+  #####
+Title: #1
+Author: Aymeric du Peloux
+
+#################
+#  #  #  #  #   #
+#.$   #  #.$    #
+#  #.$ .$   #   #
+# @#  #  #  #   #
+#################
+Title: #2
+Author: Aymeric du Peloux
+
+   ####
+####  #
+#  $  ##
+# #$#  #
+#  $   #
+#.###  #
+#.#### #
+#. @   #
+########
+Title: #3
+Author: Aymeric du Peloux
+
+      ####
+####### .#
+# $ $ $$ #
+#   @ ...#
+###   ####
+  #####
+Title: #4
+Author: Aymeric du Peloux
+
+     ####
+ #####  #
+ # $ $  #
+ #.# #. #
+ # $@$ ##
+##.# #.##
+#  * *  #
+#   #   #
+#########
+Title: #5
+Author: Aymeric du Peloux
+
+ #####
+ #   #
+ # # ##
+## *  ##
+# $*$  #
+#  * # #
+## .  +#
+ #######
+Title: #6
+Author: Aymeric du Peloux
+
+ #####
+ #   #
+ # #$##
+## @  #
+# .#$ #
+# .  ##
+# .#$#
+##   #
+ #####
+Title: #7
+Author: Aymeric du Peloux
+
+  ####
+###  ###
+#   .  #
+#  $ $ #
+##.#+#.#
+ # $ $ #
+ ###  ##
+   ####
+Title: #8
+Author: Aymeric du Peloux
+
+    ####
+#####  #
+# $   $#
+#  .#. #
+## ### ##
+ # .#.  #
+ #$ @ $ #
+ #  #####
+ ####
+Title: #9
+Author: Aymeric du Peloux
+
+ #####
+##   #
+#  #.##
+# $$. #
+## @  #
+ # #. #
+ # $ ##
+ # ###
+ #  #
+ #  #
+ #  #
+ ####
+Title: #10
+Author: Aymeric du Peloux
+
+  #####
+  #+  ###
+ ##*# $ #
+ # *    #
+## * # ##
+#  *   #
+#   ####
+#####
+Title: #11
+Author: Aymeric du Peloux
+
+######
+#    ##
+#  *  #
+# $*$ #
+## * ##
+ # * #
+ # . #
+ ##+##
+  ###
+Title: #12
+Author: Aymeric du Peloux
+
+ #####
+##   ###
+# ...* #
+# #@$# #
+# $    #
+### #$##
+  #   #
+  #####
+Title: #13
+Author: Aymeric du Peloux
+
+ #####
+ #   #
+ #.#$##
+ #    #
+ #.#$ #
+ #   ##
+ #.#$#
+##   #
+# .#$#
+# @  #
+#  ###
+####
+Title: #14
+Author: Aymeric du Peloux
+
+  ####
+###  #
+#    ##
+#  #  ###
+## . . .#
+##$##.#$##
+# $  @ $ #
+#   ##   #
+##########
+Title: #15
+Author: Aymeric du Peloux
+
+ ####
+ #  #####
+ #   $  #
+ #$# #  #
+##  +  ##
+#  #.#$#
+#  $.  #
+### . ##
+  #####
+Title: #16
+Author: Aymeric du Peloux
+
+#### ####
+#  ###  #
+#  $ $  #
+# $#.## #
+##  .   ##
+ # .@.#$ #
+ ## #    #
+  #   ####
+  #####
+Title: #17
+Author: Aymeric du Peloux
+
+  #######
+ ##  #  #
+ # * *  #
+##   #  #
+#  *#+ ##
+#     $#
+#####  #
+    ####
+Title: #18
+Author: Aymeric du Peloux
+
+ #######
+ #  #  #
+ #$ + $#
+ # .#. #
+##$.#.$##
+# $ . $ #
+#   #   #
+#########
+Title: #19
+Author: Aymeric du Peloux
+
+    #####
+#####   ##
+#   #$#  #
+#   $.@# #
+## ##..  #
+#  #.  ###
+#  $ $ #
+#  #####
+####
+Title: #20
+Author: Aymeric du Peloux
+
+  #####
+  #   ###
+###*# $ #
+# $ @ # #
+# # ..  #
+# . #$###
+##$.  #
+ #  ###
+ ####
+Title: #21
+Author: Aymeric du Peloux
+
+     ####
+ #####  #
+ # $    #
+## #.##$#
+#  # @. #
+#  .$ # ##
+## ##.#  #
+ #    $  #
+ #  ######
+ ####
+Title: #22
+Author: Aymeric du Peloux
+
+#####
+#   ###
+#.#$  #
+# @$* #
+#  $  #
+##.#.##
+ #   #
+ #####
+Title: #23
+Author: Aymeric du Peloux
+
+     #####
+ #####   #
+ # $ . # #
+ # # $$  #
+## ## # ##
+#  $.$. #
+# ##   ##
+#  .@.##
+#######
+Title: #24
+Author: Aymeric du Peloux
+
+     ####
+  ####  #
+  #..   #
+### $@# ##
+#  $ #.. #
+# $   $  #
+####  ####
+   ####
+Title: #25
+Author: Aymeric du Peloux
+
+  ########
+  #   #  #
+  #   $. #
+ ###$##  #
+ # $.## ##
+##  .*   #
+#  #$#   #
+# .@ #####
+##   #
+ #####
+Title: #26
+Author: Aymeric du Peloux
+
+ #####
+ #   ###
+## #$ @#
+# . $  #
+#...#$##
+# #  $ #
+#  #   #
+##   ###
+ #####
+Title: #27
+Author: Aymeric du Peloux
+
+     ####
+    ##  #
+   ## . #
+#### $  #
+# $ $.@##
+#  .  ##
+#######
+Title: #28
+Author: Aymeric du Peloux
+
+   ####
+ ###  #
+## @$ #
+# .$  #
+# .* ##
+# .$ #
+##  ##
+ ####
+Title: #29
+Author: Aymeric du Peloux
+
+######
+#   .#
+# . @#
+# # ###
+# # $ ##
+# *.   ##
+#### $$ ##
+   ##    #
+    ##   #
+     #####
+Title: #30
+Author: Aymeric du Peloux
+
+  #####
+###   #
+#  *# ##
+# #  * #
+# *  # #
+## #+  #
+ #   $##
+ ###  #
+   ####
+Title: #31
+Author: Aymeric du Peloux
+
+  #####
+  #   #
+###*# ##
+#    * #
+# #  # #
+# * +  #
+##  #$##
+ ##   #
+  #####
+Title: #32
+Author: Aymeric du Peloux
+
+  ####
+###.@###
+#      #
+# *..# #
+## #$$ #
+ #    ##
+ ##$# #
+  #   #
+  #####
+Title: #33
+Author: Aymeric du Peloux
+
+ #########
+ #  ##   #
+##  *  # #
+# .$#*@  #
+#   *   ##
+#########
+Title: #34
+Author: Aymeric du Peloux
+
+########
+#   *  #
+# +*** #
+##  $  #
+ ##   ##
+  ##  #
+   ####
+Title: #35
+Author: Aymeric du Peloux
+
+ ####
+ #  #
+##.@#
+# .$#####
+# $$ $  #
+# ..    #
+####  ###
+   ####
+Title: #36
+Author: Aymeric du Peloux
+
+     ####
+######  #
+# $  $  #
+# #  .# ##
+#  . #.@ #
+##$# *   #
+ #   #####
+ #####
+Title: #37
+Author: Aymeric du Peloux
+
+  #####
+ ##   ###
+ #      #
+ #*#*#* #
+ # #@$ ##
+## # #.#
+#      #
+#   #  #
+########
+Title: #38
+Author: Aymeric du Peloux
+
+  #####
+###   ##
+# $$.. #
+#  .@# #
+## #   #
+ # $* ##
+ ###  #
+   ####
+Title: #39
+Author: Aymeric du Peloux
+
+  #####
+###   ##
+#  $#  #
+#  .@.$##
+##.# #  #
+ # $    #
+ ##  ####
+  ####
+Title: #40
+Author: Aymeric du Peloux
+
